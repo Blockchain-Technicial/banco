@@ -87,7 +87,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contrato_banco.sol": "ContratoCliente"
+			"contrato_cliente.sol": "ContratoCliente"
 		},
 		"evmVersion": "berlin",
 		"libraries": {},
@@ -102,11 +102,19 @@
 	},
 	"sources": {
 		"contrato_banco.sol": {
-			"keccak256": "0x7fde8f71a3badf00f577da14e5e743ebbc8d2ec90ed492c4f70c8460622f3ffa",
+			"keccak256": "0x35fca58f59e209c776c917f6bafecf0a15434fd3549498aee734bb1184df2582",
 			"license": "GPL-3.0",
 			"urls": [
-				"bzz-raw://3d72e8f1d15a920a1dd27abf2ff63598602cd91e713796c6c995665509218258",
-				"dweb:/ipfs/QmeEqGoGXstk8h9oxtVpmHv8DiCKG8t1qSS5qcbivr8wPX"
+				"bzz-raw://cedb1baa575a5104f6ababe1577f731cc3d17771081330f0c115bb4d1d382147",
+				"dweb:/ipfs/QmcwNiNTfU8hsxyru6EysddgPbRezj2yKefiBXKfFjSEuU"
+			]
+		},
+		"contrato_cliente.sol": {
+			"keccak256": "0xdcc0a11d62cbdfdbf789f8be1da468a22b016437cbe088a0688bd01d8983482b",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://05c7b9e1e843599d5d6e91d70e8eb331e162caab04ce82696e8f9d01f3aa2df2",
+				"dweb:/ipfs/QmNw1qP6bo8HTMMBUZvhPA43G6xqFTQfUVsQhcvXXReUSx"
 			]
 		}
 	},
